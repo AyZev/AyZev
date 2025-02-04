@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
+I'm a passionate coding enthusiast with a love for creating innovative solutions and exploring new technologies.
 
 ## Projects
 
